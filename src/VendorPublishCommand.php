@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravelista\LumenVendorPublish;
+namespace Kaishiyoku\LumenVendorPublish;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
