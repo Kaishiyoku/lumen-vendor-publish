@@ -1,5 +1,5 @@
 {
-  "name": "laravelista/lumen-vendor-publish",
+  "name": "kaishiyoku/lumen-vendor-publish",
   "description": "vendor:publish for Lumen framework.",
   "license": "MIT",
   "keywords": [
@@ -10,6 +10,10 @@
     "console"
   ],
   "authors": [
+    {
+      "name": "Andreas Wiedel",
+      "email": "dev@andreas-wiedel.de"
+    },
     {
       "name": "Mario Bašić",
       "email": "mario@laravelista.hr"
